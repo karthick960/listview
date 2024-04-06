@@ -34,7 +34,7 @@ Developed by:KARTHICK K
 Registeration Number :212222040070
 */
 ```
-##activity_main.xml
+## activity_main.xml
 ```java
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -52,7 +52,7 @@ Registeration Number :212222040070
         android:listSelector="#E3B5F6" />
 </LinearLayout>
 ```
-##mainactivity.java
+## mainactivity.java
 ```java
 package com.example.customadapter;
 
@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-##activity_listview.xml
+## activity_listview.xml
 ```java
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
         android:textSize="20sp" />
 </LinearLayout>
 ```
-##customadapter.java
+## customadapter.java
 ```java
 package com.example.customadapter;
 
